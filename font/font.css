@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "msBold";
+    src: url("MS_Bold.ttf");
+}
+@font-face {
+    font-family: "msLight";
+    src: url("MS_Light.ttf");
+}
+
+h1 {
+    font-family: "msBold";
+}
+
+h2 {
+    font-family: "msBold";
+}
+
+p {
+    font-family: "msLight";
+}
